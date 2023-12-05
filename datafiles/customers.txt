@@ -1,0 +1,12 @@
+1#np@gmail.com#Nate#Pedigo#20#
+2#gman@email.com#Gary#Oldman#50#
+3#jman@gmail.com#Jesus#Christ#10000#
+4#dwarf@email.com#Wee#Collin#250#
+5#snake@email.com#Solid#Snake#35#
+6#ocelot@email.com#Revolver#Ocelot#45#
+7#cypher@email.com#Venom#Snake#30#
+8#bigboss@email.com#Big#Boss#55#
+9#robotninja@gmail.com#Raiden#Ripper#30#
+10#grayfox@email.com#Gray#Fox#40#
+11#jlucas@ua.edu#Jeff#Lucas#45#
+12#ccallahan@ua.edu#Chase#Callahan#24#

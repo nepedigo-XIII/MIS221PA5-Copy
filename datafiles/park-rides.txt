@@ -1,0 +1,13 @@
+1#Applebee's#Other#True#
+2#Bazooka's Bunker#Simulator#True#
+3#Dragon's Wing#Thrill#True#
+4#Ethan's Escapade#Water#False#
+5#Sabrina's Shack#Simulator#True#
+6#Godzilla's Garage#Water#True#
+7#Pirate's Cove#Family-Friendly#True#
+8#Galactic Explorer#Simulator#True#
+9#Haunted Mansion#Thrill#True#
+10#Sky High Tower#Kiddie#True#
+11#Wild River Rapids#Water#True#
+12#Ape Enclosure#Family-Friendly#True#
+13#Chase's Corn Maze#Kiddie#True#

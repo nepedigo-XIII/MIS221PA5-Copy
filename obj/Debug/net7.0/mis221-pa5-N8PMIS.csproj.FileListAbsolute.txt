@@ -1,0 +1,14 @@
+C:\Users\chock\Desktop\school\MIS\MIS221\repos\mis221-pa5-N8PMIS\obj\Debug\net7.0\mis221-pa5-N8PMIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chock\Desktop\school\MIS\MIS221\repos\mis221-pa5-N8PMIS\obj\Debug\net7.0\mis221-pa5-N8PMIS.AssemblyInfoInputs.cache
+C:\Users\chock\Desktop\school\MIS\MIS221\repos\mis221-pa5-N8PMIS\obj\Debug\net7.0\mis221-pa5-N8PMIS.AssemblyInfo.cs
+C:\Users\chock\Desktop\school\MIS\MIS221\repos\mis221-pa5-N8PMIS\obj\Debug\net7.0\mis221-pa5-N8PMIS.csproj.CoreCompileInputs.cache
+C:\Users\chock\Desktop\school\MIS\MIS221\repos\mis221-pa5-N8PMIS\bin\Debug\net7.0\mis221-pa5-N8PMIS.exe
+C:\Users\chock\Desktop\school\MIS\MIS221\repos\mis221-pa5-N8PMIS\bin\Debug\net7.0\mis221-pa5-N8PMIS.deps.json
+C:\Users\chock\Desktop\school\MIS\MIS221\repos\mis221-pa5-N8PMIS\bin\Debug\net7.0\mis221-pa5-N8PMIS.runtimeconfig.json
+C:\Users\chock\Desktop\school\MIS\MIS221\repos\mis221-pa5-N8PMIS\bin\Debug\net7.0\mis221-pa5-N8PMIS.dll
+C:\Users\chock\Desktop\school\MIS\MIS221\repos\mis221-pa5-N8PMIS\bin\Debug\net7.0\mis221-pa5-N8PMIS.pdb
+C:\Users\chock\Desktop\school\MIS\MIS221\repos\mis221-pa5-N8PMIS\obj\Debug\net7.0\mis221-pa5-N8PMIS.dll
+C:\Users\chock\Desktop\school\MIS\MIS221\repos\mis221-pa5-N8PMIS\obj\Debug\net7.0\refint\mis221-pa5-N8PMIS.dll
+C:\Users\chock\Desktop\school\MIS\MIS221\repos\mis221-pa5-N8PMIS\obj\Debug\net7.0\mis221-pa5-N8PMIS.pdb
+C:\Users\chock\Desktop\school\MIS\MIS221\repos\mis221-pa5-N8PMIS\obj\Debug\net7.0\mis221-pa5-N8PMIS.genruntimeconfig.cache
+C:\Users\chock\Desktop\school\MIS\MIS221\repos\mis221-pa5-N8PMIS\obj\Debug\net7.0\ref\mis221-pa5-N8PMIS.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "mis221-pa5-N8PMIS/1.0.0": {
+        "runtime": {
+          "mis221-pa5-N8PMIS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mis221-pa5-N8PMIS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

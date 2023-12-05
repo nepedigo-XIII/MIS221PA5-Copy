@@ -1,0 +1,12 @@
+1#snake@email.com#9#Thrill#Haunted Mansion#12/20/2023 4:00#False#
+2#jman@gmail.com#6#Water#Godzilla's Garage#12/15/2023 20:00#False#
+3#jman@gmail.com#7#Family-Friendly#Pirate's Cove#12/14/2023 1:00#False#
+4#jman@gmail.com#5#Simulator#Sabrina's Shack#12/11/2023 12:00#False#
+6#gman@email.com#10#Kiddie#Sky High Tower#12/04/2023 12:00#False#
+7#np@gmail.com#3#Thrill#Dragon's Wing#01/02/2024 12:00#False#
+8#dwarf@email.com#6#Water#Godzilla's Garage#12/25/2023 1:00#False#
+9#dwarf@email.com#4#Water#Ethan's Escapade#01/03/2023 2:00#False#
+10#grayfox@email.com#7#Family-Friendly#Pirate's Cove#12/24/2023 3:00#False#
+11#dwarf@email.com#6#Water#Godzilla's Garage#12/11/2023 12:00#False#
+12#bigboss@email.com#1#Other#Applebee's#12/29/2023 12:00#False#
+13#robotninja@gmail.com#6#Water#Godzilla's Garage#12/14/2023 4:00#False#
